@@ -1,4 +1,4 @@
-triggers are first component which activates workflow types of triggers are : manual , on app event , schedule 
+triggers are first component which activates workflow types of triggers are : manual , on app event , schedule, on webhook and on form_submission  
 
 scenerio 1 :  validate 2 numbers every 8:30 pm IST and send email if both are equal 
 
